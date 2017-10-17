@@ -1,0 +1,14 @@
+{
+  "name": "wazum/force-https-typolink",
+  "description": "",
+  "require": {
+    "typo3/cms-frontend": "*"
+  },
+  "type": "typo3-cms-extension",
+  "version": "1.0.0",
+  "autoload": {
+    "psr-4": {
+      "Wazum\\ForceHttpsTypolink\\": "Classes/"
+    }
+  }
+}
